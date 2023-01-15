@@ -1,4 +1,4 @@
-sudo {
+ {
   "private": true,
   "scripts": {
     "build": "nuxt generate",
